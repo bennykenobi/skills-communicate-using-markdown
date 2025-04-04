@@ -4,7 +4,12 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
 ![Dunstone Design Tamar Chair](https://yaffa-cdn.s3.amazonaws.com/yaffadsp/images/dmImage/StandardImage/tamar-chair-evan-dunstone.jpg)
+
 ``` javascript
 var myVar = "Hello World!"
 ```
+- [x] Make a change
+- [ ] Make another change
+- [ ] This list just keeps going
